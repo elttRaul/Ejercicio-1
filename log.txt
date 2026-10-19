@@ -1,0 +1,3 @@
+41c1479 (HEAD -> main) Segon commit
+b7f6f78 (origin/main) Primer commit
+
